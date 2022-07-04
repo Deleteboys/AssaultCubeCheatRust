@@ -32,14 +32,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User1/Documents/DirtyModLauncher-efb4f9a38fb7bd2f31874d0461436011eaa80af9&quot;,
-    &quot;org.rust.cargo.project.model.PROJECT_DISCOVERY&quot;: &quot;true&quot;,
-    &quot;org.rust.disableDetachedFileInspectionJ:/Programming/AssoultCubeCheat/src/offsets/offsets.rs&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/User1/Documents/Github/AssaultCubeCheatRust",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "org.rust.disableDetachedFileInspectionJ:/Programming/AssoultCubeCheat/src/offsets/offsets.rs": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="J:\Programming\AssoultCubeCheat\src\modules\" />
@@ -88,6 +91,7 @@
       <workItem from="1656842586455" duration="4069000" />
       <workItem from="1656865306219" duration="6539000" />
       <workItem from="1656953468342" duration="929000" />
+      <workItem from="1656965606019" duration="264000" />
     </task>
     <servers />
   </component>
