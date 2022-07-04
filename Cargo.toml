@@ -1,0 +1,11 @@
+[package]
+name = "AssoultCubeCheat"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+winapi = { version = "0.3", features = ["d3d9types", "winuser", "handleapi", "errhandlingapi", "processthreadsapi", "memoryapi", "psapi"] }
+imgui = "0.8.2"
+tlhelp32 = "1.0.3"
