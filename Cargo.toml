@@ -7,5 +7,6 @@ edition = "2021"
 
 [dependencies]
 winapi = { version = "0.3", features = ["d3d9types", "winuser", "handleapi", "errhandlingapi", "processthreadsapi", "memoryapi", "psapi"] }
-imgui = "0.8.2"
+#imgui = "0.8.2"
 tlhelp32 = "1.0.3"
+hex = "0.4.3"

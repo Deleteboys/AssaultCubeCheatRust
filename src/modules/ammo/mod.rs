@@ -9,4 +9,8 @@ impl Module for Ammo {
     fn tick(&self) {
         unsafe { (*self.player).set_ammo(9999); }
     }
+
+    // fn new(player: *mut Player) -> Ammo {
+    //     Ammo{player}
+    // }
 }

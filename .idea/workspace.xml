@@ -4,7 +4,18 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2ba3945-3558-440b-a359-3882489350ec" name="Changes" comment="" />
+    <list default="true" id="f2ba3945-3558-440b-a359-3882489350ec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/entity.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/memoryreader/mod.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/memoryreader/mod.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/ammo/mod.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/ammo/mod.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/armor/mod.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/armor/mod.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/godmode/mod.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/godmode/mod.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/he/mod.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/he/mod.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/mod.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/mod.rs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,17 +43,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/User1/Documents/Github/AssaultCubeCheatRust",
-    "nodejs_package_manager_path": "npm",
-    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
-    "org.rust.disableDetachedFileInspectionJ:/Programming/AssoultCubeCheat/src/offsets/offsets.rs": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User1/Documents/Github/AssaultCubeCheatRust&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;org.rust.cargo.project.model.PROJECT_DISCOVERY&quot;: &quot;true&quot;,
+    &quot;org.rust.disableDetachedFileInspectionJ:/Programming/AssoultCubeCheat/src/offsets/offsets.rs&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="J:\Programming\AssoultCubeCheat\src\modules\" />
@@ -92,10 +103,26 @@
       <workItem from="1656865306219" duration="6539000" />
       <workItem from="1656953468342" duration="929000" />
       <workItem from="1656965606019" duration="264000" />
+      <workItem from="1656965931415" duration="2778000" />
+      <workItem from="1656969409847" duration="497000" />
+      <workItem from="1657038405065" duration="142000" />
+      <workItem from="1657057553285" duration="6321000" />
+      <workItem from="1657089776295" duration="3293000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

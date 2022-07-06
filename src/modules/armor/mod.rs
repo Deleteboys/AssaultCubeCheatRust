@@ -9,4 +9,8 @@ impl Module for Armor {
     fn tick(&self) {
         unsafe {(*self.player).set_armor(9999);}
     }
+
+    // fn new(player: *mut Player) -> Armor {
+    //     Armor{player}
+    // }
 }

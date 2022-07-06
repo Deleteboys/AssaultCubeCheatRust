@@ -90,6 +90,16 @@ pub fn get_process_as_handel(process_id: u32) -> HANDLE {
     return process_handel;
 }
 
+pub fn read_mem_with_offsets(h_process: HANDLE, base_address: u32, address: u32, offsets: Vec<u32>) -> u32 {
+    let mut value: u32 = 0;
+    let mut temp = read_mem(h_process, base_address + address);
+    for i in 0..offsets.len() - 1 {
+        temp = read_mem(h_process, temp + offsets[i as usize]);
+    }
+    value = read_mem(h_process,temp+offsets[(offsets.len()-1) as usize]);
+    value
+}
+
 pub fn read_mem(h_process: HANDLE, dw_addr: DWORD) -> u32 {
     let mut value: u32 = 0;
     unsafe {

@@ -14,6 +14,10 @@ impl Module for Godmode {
         // todo!()
     }
 
+    // fn new(player: *mut Player) -> Godmode {
+    //     Godmode{player}
+    // }
+
     // pub fn new(player: Player) -> Godmode {
     //     Godmode {
     //         module: Module {
